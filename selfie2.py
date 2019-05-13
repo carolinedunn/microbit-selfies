@@ -4,7 +4,7 @@ from time import sleep
 import os
 
 button0 = Button(4, pull_up = False)
-button1 = Button(3, pull_up = False)
+button1 = Button(5, pull_up = False)
 i = 0
 
 while button1.is_pressed == False:
