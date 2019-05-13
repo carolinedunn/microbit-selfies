@@ -18,6 +18,3 @@ while button1.is_pressed == False:
         if button1.is_pressed:
             camera.stop_preview()
    
-
-
- 
